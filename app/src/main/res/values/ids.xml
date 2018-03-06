@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="actionTitle" type="id">Activity Title</item>
+    <item name="button" type="id">continue button</item>
+    <item name="bottombar" type="id">bottom_bar</item>
+    <item name="tabs" type="id">tabs</item>
+    <item name="listGroup" type="id">Experience Title</item>
+    <item name="itemTitle" type="id">Event Title</item>
+    <item name="listItem" type="id">List Item</item>
+    <item name="cardIV" type="id">Card Image</item>
+    <item name="eventTitle" type="id" />
+</resources>

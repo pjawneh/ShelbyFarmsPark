@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <ImageButton
+            android:id="@+id/fbButton"
+            style="@android:style/Widget.Material.ImageButton"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="23dp"
+            android:layout_toStartOf="@+id/twitButton"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/ic_fb_logo" />
+
+        <ImageButton
+            android:id="@+id/twitButton"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="21dp"
+            android:layout_toStartOf="@+id/instaButton"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:tint="@android:color/black"
+            app:srcCompat="@drawable/ic_twitter_logo" />
+
+        <TextView
+            android:id="@+id/contactTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="16dp"
+            android:background="@null"
+            android:fontFamily="sans-serif"
+            android:text="@string/contact_title"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/instaButton"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="16dp"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:tint="@android:color/black"
+            app:srcCompat="@drawable/ic_insta_logo" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:gravity="bottom"
+            android:background="@drawable/border" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/relativeLayout">
+
+        <TextView
+            android:id="@+id/phoneLBL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="12dp"
+            android:text="@string/phoneLBL"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/phoneTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/phoneLBL"
+            android:layout_below="@+id/phoneLBL"
+            android:layout_marginTop="2dp"
+            android:text="@string/phoneNum"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/addLBL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/phoneTV"
+            android:layout_below="@+id/phoneTV"
+            android:layout_marginTop="18dp"
+            android:text="@string/addLBL"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ftLBL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/addLBL"
+            android:layout_below="@+id/addLBL"
+            android:layout_marginTop="14dp"
+            android:text="@string/ftLBL"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ftAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/ftLBL"
+            android:layout_below="@+id/ftLBL"
+            android:text="@string/ftAdd"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/fecLBL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/ftAdd"
+            android:layout_below="@+id/ftAdd"
+            android:layout_marginTop="28dp"
+            android:text="@string/fecLBL"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/fecAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/fecLBL"
+            android:layout_below="@+id/fecLBL"
+            android:text="@string/fecAdd"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/emLBL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/fecAdd"
+            android:layout_below="@+id/fecAdd"
+            android:layout_marginTop="31dp"
+            android:text="@string/emLBL"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/emAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/emLBL"
+            android:layout_below="@+id/emLBL"
+            android:text="@string/emAdd"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/webLBL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/webAdd"
+            android:layout_below="@+id/emAdd"
+            android:layout_marginTop="28dp"
+            android:text="@string/webLBL"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/webAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/emAdd"
+            android:layout_below="@+id/webLBL"
+            android:text="@string/webAddr"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+</RelativeLayout>

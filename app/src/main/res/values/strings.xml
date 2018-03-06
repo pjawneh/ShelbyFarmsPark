@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Shelby Farms Park</string>
+
+
+    <string name="tab1">Experiences</string>
+    <string name="tab2">Events</string>
+
+    <string name="explore_nav_title">Explore</string>
+    <string name="join_nav_title">Join</string>
+    <string name="map_nav_title">Map</string>
+    <string name="nav_about">About</string>
+    <string name="nav_donate">Donate</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_info">Park Info</string>
+    <string name="nav_join">Join</string>
+    <string name="nav_login">Login</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_membership">Membership</string>
+    <string name="nav_news">News</string>
+    <string name="nav_rules">Rules</string>
+
+    <string name="about_nav_title">About</string>
+    <string name="activity_title">Activity Title</string>
+    <string name="button_text">Continue</string>
+
+    <!--Splash Activity-->
+    <string name="splash_logo">Splash Logo</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="toolbar_title">Activity Title</string>
+    <string name="contact_title">Contact</string>
+    <string name="phoneLBL">Phone:</string>
+    <string name="phoneNum">901-222-PARK(7275)</string>
+    <string name="addLBL">Address:</string>
+    <string name="ftLBL">First Tennessee Foundation Visitor Center</string>
+    <string name="ftAdd">6903 Great View Drive North\nMemphis, TN 38134</string>
+    <string name="fecLBL">Fedex Event Center</string>
+    <string name="fecAdd">415 Great View Drive East\nSuite 103\nMemphis, TN 38134</string>
+    <string name="emLBL">Email:</string>
+    <string name="emAdd">info@shelbyfarmspark.org</string>
+    <string name="webLBL">Website:</string>
+    <string name="webAddr">www.shelbyfarmspark.org</string>
+    <string name="oneLBL">Want to be a part of one of the most distinctive, diverse and admired Parks in America?</string>
+    <string name="oneContent">Join the herd as a Park Member, and in return you will enjoy special, Members-only perks!</string>
+    <string name="twoLBL">Did you know your favorite way to play is made possible by Park Members?</string>
+    <string name="twoContent">When you become a Park Member, your donation makes play days possible for the whole community! Shelby Farms Park is a people-powered park, and donations from Park fans like you go a long way!</string>
+    <string name="alertMSG">Alert Message</string>
+    <string name="rule_category">General</string>
+</resources>

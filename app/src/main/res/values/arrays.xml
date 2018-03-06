@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Home Arrays-->
+    <string-array name="home_actions">
+        <item>EXPLORE</item>
+        <item>MAP</item>
+        <item>JOIN</item>
+        <item>ABOUT</item>
+    </string-array>
+    <array name="home_pictures">
+        <item>@drawable/dsc_838775006653186948_o</item>
+        <item>@drawable/emotion_bg</item>
+        <item>@drawable/inner_hero_buffalo</item>
+        <item>@drawable/website_banners_hyde_lake_sunrise</item>
+    </array>
+
+    <!--News Arrays-->
+    <array name="blog_titles">
+        <item>SHELBY FARMS PARK STATEMENT ON PARKSIDE DEVELOPMENT</item>
+        <item>Join the Herd</item>
+        <item>The Ultimate Guide to Shelby Farms Park - StyleBlueprint</item>
+        <item>Have you heard about our new herd members?</item>
+        <item>Shelby Farms Park Launches New Book</item>
+        <item>Memphis Lands New Music Festival At Shelby Farms Park on Oct. 6-7, 2017</item>
+        <item>STAR-SPANGLED CELEBRATION RETURNS TO SHELBY FARMS PARK ON JULY 1 WITH LASER LIGHT SPECTACULAR FINALE</item>
+    </array>
+    <array name="blog_desc">
+        <item>Shelby Farm Park Conservancy's official statement on Parkside Development:</item>
+
+        <item>Shelby Farms Park is a people-powered park, and while it is free and open to the
+            community, contributions from Park Members help keep the trails, lakes and green spaces
+            you love in tip-top shape!</item>
+
+        <item>Plan you next Park play day with some help from StyleBlueprint!</item>
+
+        <item>Shelby Farms Park welcomed six buffalo calves into the world this May! The babies
+            and their mothers are healthy and full of energy.</item>
+
+        <item>Shelby Farms Park Conservancy announced today the publication of its new 272-page book,
+            Shelby Farms Park: Elevating a City.  The book describes the history and journey of
+            Shelby Farms Park through a combination of compelling stories and stunning photography.</item>
+
+        <item>The inaugural “MEMPHO” music festival announces GRAMMY Award™ winning artists Cage The
+            Elephant and Jason Isbell and the 400 Unit, GRAMMY-nominated Anderson .Paak and The Free
+            Nationals, as well as Cold War Kids, Bishop Briggs, Robert Randolph and The Family Band,
+            Hard Working Americans, Southern Avenue among other featured performers. A special tribute
+            to the music of Memphis featuring legendary artists Steve Cropper and Friends and
+            Booker T Presents: A Stax Revue and a Journey thru Soul, Blues, and R and B.</item>
+
+        <item>This festival will take place Saturday, July 1 and will feature live music and family
+            fun with a grand finale of a 60-minute Laser Light Spectacular over Hyde Lake.</item>
+    </array>
+    <array name="blog_pics">
+        <item>@drawable/dsc_838775006653186948_o</item>
+        <item>@drawable/website_banner_volunteer</item>
+        <item>@drawable/website_banners_hyde_lake_sunrise</item>
+        <item>@drawable/inner_hero_buffalo</item>
+        <item>@drawable/emotion_bg</item>
+        <item>@drawable/inner_hero_buffalo</item>
+        <item>@drawable/website_banners_hyde_lake_sunrise</item>
+    </array>
+
+    <!--Alerts Array-->
+    <array name="alert_desc">
+        <item>MARCH 2 - MARCH 4: The Germantown Trailhead | Lucius Burch Natural Area Trailhead at
+            Germantown Road will be closed due to flooding. </item>
+
+        <item>FEBRUARY 26 - MARCH 12: The Greenline will be closed at the Wolf River due to
+            maintenance work being done on the bridge.  This is between the Podesta and Sycamore
+            View access points.</item>
+    </array>
+
+    <!--Rules Arrays-->
+    <array name="rule_titles">
+        <item>General</item>
+    </array>
+
+    <array name="rule_desc">
+        <item>No recreational drones allowed in the Park</item>
+        <item>No cutting of trees or removal of flora of any kind</item>
+        <item>Please do not approach, disturb or feed any wildlife</item>
+        <item>ATVs and four-wheelers are not allowed. Off-road driving is not allowed</item>
+        <item>No alcoholic beverages allowed</item>
+        <item>Hunting is not allowed</item>
+        <item>Music must not be played loud enough to be heard outside the vehicle</item>
+        <item>No parking on grass in any areas</item>
+        <item>Picnic pavilions and picnic areas must be reserved in advance</item>
+        <item>No moon bounces, space walks, inflatables, water slides, dunk tanks, petting zoos or
+            climbing walls</item>
+        <item>Speed limit is 20 MPH</item>
+        <item>No personal grills</item>
+        <item>No littering</item>
+        <item>No metal detectors</item>
+        <item>All pets must be on-leash. Owner must hold leash in-hand and pet must be under owner's
+            control</item>
+    </array>
+
+    <!--Events Arrays-->
+    <array name="event_titles">
+        <item>Earth Day Celebrations</item>
+        <item>Dog-A-Roo Festival + Four-Legged 4K</item>
+        <item>Greenline Half Marathon + 5K</item>
+        <item>Starry Nights</item>
+        <item>Mempho Music Festival</item>
+    </array>
+    <array name="event_desc">
+        <item>Celebrate sustainability at the biggest Earth Day celebration in the Mid-South! It’s a
+            day full of live music, high-adventure play, eco-friendly vendors, local/sustainable
+            food options and clean, green fun for the entire family!</item>
+
+        <item>Dog-A-Roo is Shelby Farms Park Conservancy's most pawsome event! This pup-friendly
+            festival offers a wide range of activities for your furry friend, including a talent +
+            costume contest, rescue parades, the Four-legged 4K Fun Run, gourmet pet treats, pet
+            specialist information sessions and more! </item>
+
+        <item>Run the Races that Run the Greenline</item>
+
+        <item>Starry Nights is family-friendly holiday festival that transforms Shelby Farms Park
+            into a winter wonderland. Stay tuned for details about this year's event!</item>
+
+        <item>The inaugural “MEMPHO” music festival announces GRAMMY Award™ winning artists Cage The
+            Elephant and Jason Isbell and the 400 Unit, GRAMMY-nominated Anderson .Paak and The Free
+            Nationals, as well as Cold War Kids, Bishop Briggs, Robert Randolph and The Family Band,
+            Hard Working Americans, Southern Avenue among other featured performers.</item>
+    </array>
+    <array name="event_dates">
+        <item>April 2018</item>
+        <item>May 2018</item>
+        <item>November 2018</item>
+        <item>November - December 2018</item>
+        <item>October 2018</item>
+    </array>
+    <array name="event_pics">
+        <item>@drawable/dsc_838775006653186948_o</item>
+        <item>@drawable/banner_dog</item>
+        <item>@drawable/website_banner_run</item>
+        <item>@drawable/website_banner_starry_nights</item>
+        <item>@drawable/unnamed_16</item>
+    </array>
+</resources>
