@@ -1,5 +1,5 @@
 # ShelbyFarmsPark
-Shelby Farms Park - Android App (Unoffical) Redesign
+Shelby Farms Park - Android App Redesign Concept
 
 Shelby Farms is the largest city park in Memphis,TN at about 4,500 acres. The park is known for its trails,namely, the Greenline which runs through several parts of the city. Activities at park include biking, running, hiking, fishing, and more.
 
